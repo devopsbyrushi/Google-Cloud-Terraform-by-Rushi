@@ -103,4 +103,3 @@ In this lecture, we configured Google Cloud authentication and Application Defau
 
 **Section 03 → Terraform Basics**
 
-```
