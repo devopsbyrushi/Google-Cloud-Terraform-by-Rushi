@@ -1,18 +1,3 @@
-Yes 👍 You are currently creating the **first subfolder**:
-
-```text
-01-Introduction/
-└── 01-Cloud-and-Terraform-Introduction/
-```
-
-In the **“Name your file…”** box, enter:
-
-```text
-README.md
-```
-
-Then paste the following content into the editor:
-
 ````markdown
 # 01 - Cloud and Terraform Introduction
 
