@@ -1,4 +1,4 @@
-````markdown
+
 # 01 - Create First Terraform Project
 
 ## Overview
