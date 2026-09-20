@@ -1,4 +1,4 @@
-````markdown
+
 # 02 - GCP Authentication for Terraform
 
 ## Overview
