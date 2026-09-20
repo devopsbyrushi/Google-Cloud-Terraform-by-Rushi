@@ -5,9 +5,7 @@
 
 In this section, we will understand the difference between **Manual Infrastructure Management** and **Terraform**.
 
-We will see why managing infrastructure manually becomes difficult as the number of resources increases and how Terraform helps us manage infrastructure using **Infrastructure as Code (IaC)**.
-
----
+We will see why managing infrastructure manually becomes challenging as the number of resources increases and why we need **Infrastructure as Code (IaC)**.
 
 ## Manual vs Terraform
 
@@ -22,17 +20,13 @@ We will see why managing infrastructure manually becomes difficult as the number
 | Hard to Rebuild | Reproducible |
 | Difficult Collaboration | Team Collaboration |
 
----
-
 ## Key Point
 
-**Small infrastructure → Manual management is possible**
+**Small Infrastructure → Manual Management**
 
-**Large infrastructure → Automation with Terraform is required**
+**Large Infrastructure → Terraform**
 
-Terraform allows us to define and manage infrastructure using **code** instead of managing everything manually.
-
----
+Terraform helps us manage infrastructure using **code** instead of managing everything manually.
 
 ## Next Step
 
