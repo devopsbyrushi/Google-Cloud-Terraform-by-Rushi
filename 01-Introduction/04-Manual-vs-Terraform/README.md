@@ -1,4 +1,4 @@
-
+```
 # 04 - Manual vs Terraform
 
 ## Overview
@@ -121,6 +121,7 @@ Infrastructure as Code
 ````
 
 ---
+```
 
 ## Next Step
 
