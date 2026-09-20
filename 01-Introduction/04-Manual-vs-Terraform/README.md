@@ -1,4 +1,4 @@
-````markdown
+
 # 04 - Manual vs Terraform
 
 ## Overview
@@ -126,5 +126,4 @@ Infrastructure as Code
 
 In the next section, we will install **Terraform on Windows** and prepare our system for Terraform development.
 
-```
 
