@@ -1,5 +1,4 @@
 
-````markdown
 # 03 - Create Multiple GCP VMs Using Terraform
 
 ## Overview
