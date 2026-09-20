@@ -312,7 +312,4 @@ terraform destroy
 
 **04 - Terraform Variables**
 
-```
 
-This follows your notes directly: **two `google_compute_instance` resources**, `vm-1` in `us-central1-a` with **10 GB**, and `vm-2` in `us-east1-b` with **12 GB**. :contentReference[oaicite:1]{index=1}
-```
