@@ -1,7 +1,3 @@
-Yes. I agree — the current version jumps directly into the comparison. For a **student-friendly GitHub lecture**, we should first introduce what they will learn, then show the comparison in a clean table.
-
-Here is the revised `04-Manual-vs-Terraform/README.md`:
-
 ````markdown
 # 04 - Manual vs Terraform
 
