@@ -1,4 +1,4 @@
-````markdown
+
 # 01 - Cloud and Terraform Introduction
 
 ## Overview
