@@ -1,4 +1,4 @@
-````markdown
+
 # 02 - Create GCP VM Using gcloud
 
 ## Overview
