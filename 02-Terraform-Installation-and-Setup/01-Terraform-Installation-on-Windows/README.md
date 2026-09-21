@@ -1,4 +1,4 @@
-````markdown
+
 # 01 - Terraform Installation on Windows
 
 ## Overview
